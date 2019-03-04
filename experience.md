@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
+title: 
 subtitle: my story
 ---
 
-##Followings share my story 
+## Followings share my story 
