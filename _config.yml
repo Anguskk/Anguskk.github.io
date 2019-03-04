@@ -24,10 +24,10 @@ description: Welcome to my parallel world, for something awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+  Celebrity`s Blog:
+    - Bill Gate: "https://www.gatesnotes.com/"
+    - WeiGang Wan: "https://www.geekonomics10000.com/"
+    - 
   Author's home: "https://blog.csdn.net/qq_36404766/article/details/87646349"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -64,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Angus
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -99,7 +99,8 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://blog.csdn.net/qq_36404766/article/details/87646349"  
 
 # --- Web Statistics Section --- #
 
