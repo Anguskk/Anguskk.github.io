@@ -24,7 +24,7 @@ description: Welcome to my parallel world, for something awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Celebrity`s Blog:
+  Celebrity's Blog:
     - Bill Gate: "https://www.gatesnotes.com/"
     - WeiGang Wan: "https://www.geekonomics10000.com/"
     -
