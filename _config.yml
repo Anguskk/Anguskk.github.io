@@ -29,6 +29,7 @@ navbar-links:
     - WeiGang Wan: "https://www.geekonomics10000.com/"
     -
   Experience: "experience"
+  Diary: "index.html"
   Author's home: "https://blog.csdn.net/qq_36404766/article/details/87646349"
 
 # Image to show in the navigation bar - image must be a square (width = height)
