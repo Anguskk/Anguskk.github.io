@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I am thinking about what I should do.
 ---
-
-My name is Angus Qi. I have the following qualities:
+- I am a graduate at [http://gr.uestc.edu.cn/]() from September 2018, supervised by associate  Prof. Cai Lu.
+- My study focuses on Information and Computer Ingineering, particularly in C++ software development and machine learning.
 
 - I'm a talkative person.
 - I'm an ambitious graduate.
 
-What else do you need?
 
 ### my history
+- I received B.E. degree in 2014 at the School of Information Science and Technology in [Southwest JiaoTong University](https://www.swjtu.edu.cn/), where I major in communication engineering.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
