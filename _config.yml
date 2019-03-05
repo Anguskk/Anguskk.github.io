@@ -132,7 +132,7 @@ url-pretty: "https://blog.csdn.net/qq_36404766/article/details/87646349"
 # disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
-# fb_comment_id: ""
+fb_comment_id: "2091283554494998"
 
 # Staticman support
 staticman:
@@ -148,7 +148,7 @@ staticman:
 # --- Misc --- #
 
 # Facebook App ID
-# fb_app_id: ""
+fb_app_id: "2091283554494998"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
