@@ -112,7 +112,7 @@ url-pretty: "https://blog.csdn.net/qq_36404766/article/details/87646349"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-135646126-1"
 
 # Google Tag Manager ID
 #gtm: ""
