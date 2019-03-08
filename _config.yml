@@ -166,7 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/_blog/page:6/"
+#paginate_path: "/_blog/page:6/"
 
 kramdown:
   input: GFM
