@@ -24,7 +24,7 @@ description: Welcome to my parallel world, for something awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "index.html"
+  Blog: "/_blog/index.html"
   Experience: "experience"  
   Author's home: "https://blog.csdn.net/qq_36404766/article/details/87646349"
   Celebrity's Blog:
@@ -165,8 +165,8 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
-#paginate_path: "/_blog/page:6/"
+#paginate: 5
+paginate_path: "/_blog/page:6/"
 
 kramdown:
   input: GFM
