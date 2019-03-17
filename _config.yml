@@ -24,7 +24,7 @@ description: Welcome to my parallel world, for something awesome!
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Blog: "_blog"
+  Blog: "index.html"
   Experience: "experience"  
   Author's home: "https://blog.csdn.net/qq_36404766/article/details/87646349"
   Celebrity's Blog:
