@@ -152,7 +152,7 @@ fb_app_id: "2091283554494998"
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 30
+excerpt_length: 5
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
@@ -166,7 +166,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-#paginate_path: "/_blog/page:6/"
+paginate_path: "/_blog/page:6/"
 
 kramdown:
   input: GFM
