@@ -11,6 +11,7 @@ subtitle: March meets its end.
 ---
 > 匆匆又是一周，今天是3月底了，明天又是崭新的一月啊。时间从不止步。
 
+![Re Application for Education Pack without reply.jpg]({{site.baseurl}}/img/Re%20Application%20for%20Education%20Pack%20without%20reply.jpg)
 ### 这周值得回味的事情
 - **最有成就感的事情，就是我拿下了Github的Education Pack,一堆福利啊，顺手注册了自己的免费域名auguskf.me,因为.com的域名需要境外的credit card，搞不定。刚开始提交Application，自己的学生卡也上传了，信息过去好几天，工作人员就是不理你，逼得没办法了，我又重新给客服发了封邮件，表达了我的愤怒和急切，嘿!这下奏效了，第二天就收到了回复，更重要的是，申请确认成功了，尼玛啊，看来凡事还是要脸皮厚啊，官方冠冕堂皇的理由，高峰期申请人太多都是骗人的~Maybe.下面晒一下这封邮件。** 
 ![reply.jpg](img/Re%20Application%20for%20Education%20Pack%20without%20reply.jpg)@w=400h=500
